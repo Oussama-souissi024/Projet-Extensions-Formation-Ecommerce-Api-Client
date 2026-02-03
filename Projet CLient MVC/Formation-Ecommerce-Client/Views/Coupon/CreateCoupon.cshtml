@@ -1,0 +1,36 @@
+@model Formation_Ecommerce_Client.Models.ViewModels.Coupons.CreateCouponViewModel
+
+@{
+    ViewData["Title"] = "Créer un Coupon";
+}
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Créer un Coupon</h2>
+            <hr />
+        </div>
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="mb-3">
+            <label>Code Coupon</label>
+            <input asp-for="CouponCode" class="form-control" />
+            <span asp-validation-for="CouponCode" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label>Montant de la remise</label>
+            <input asp-for="DiscountAmount" class="form-control" />
+            <span asp-validation-for="DiscountAmount" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label>Montant minimum d'achat</label>
+            <input asp-for="MinimumAmount" class="form-control" />
+            <span asp-validation-for="MinimumAmount" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:150px">Créer</button>
+        <a asp-controller="Coupon" asp-action="Index" class="btn btn-secondary" style="width:150px">Retour</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

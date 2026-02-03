@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Erreur API";
+}
+
+<div class="container mt-5 text-center">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card border-danger shadow">
+                <div class="card-header bg-danger text-white">
+                    <h3 class="mb-0"><i class="bi bi-exclamation-triangle-fill"></i> Service Indisponible</h3>
+                </div>
+                <div class="card-body py-5">
+                    <h4 class="card-title text-danger mb-4">Impossible de contacter le serveur</h4>
+                    <p class="card-text lead text-muted">
+                        Le service API semble être hors ligne ou inaccessible pour le moment.
+                    </p>
+                    <p class="text-muted">
+                        Veuillez vérifier votre connexion internet ou réessayer dans quelques instants.
+                    </p>
+                    
+                    <div class="mt-4">
+                        <a href="/" class="btn btn-primary btn-lg">
+                            <i class="bi bi-arrow-clockwise"></i> Réessayer
+                        </a>
+                        <a href="javascript:history.back()" class="btn btn-outline-secondary btn-lg ms-2">
+                            <i class="bi bi-arrow-left"></i> Retour
+                        </a>
+                    </div>
+                </div>
+                <div class="card-footer text-muted font-monospace small">
+                    Code erreur: API_CONNECTION_FAILED
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

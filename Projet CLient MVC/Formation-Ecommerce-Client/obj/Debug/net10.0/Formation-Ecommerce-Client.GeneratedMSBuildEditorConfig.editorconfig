@@ -1,0 +1,151 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Formation_Ecommerce_Client
+build_property.RootNamespace = Formation_Ecommerce_Client
+build_property.ProjectDir = C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Auth/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Auth/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Cart/CartIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Category/CategoryIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Category/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Category/DeleteCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Category/EditCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Coupon/CouponIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXENvdXBvbkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Coupon/CreateCoupon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXENyZWF0ZUNvdXBvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Coupon/DeleteCoupon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXERlbGV0ZUNvdXBvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Coupon/EditCoupon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXEVkaXRDb3Vwb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Home/ApiError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcGlFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Home/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Order/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Order/OrderConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Order/OrderDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Order/OrderIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Product/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Product/DeleteProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Product/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Product/ProductIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oussa/OneDrive/Desktop/Formation/Projet full stack MVC/Projet extensions/Projet CLient MVC/Formation-Ecommerce-Client/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-u4v1ttgujy

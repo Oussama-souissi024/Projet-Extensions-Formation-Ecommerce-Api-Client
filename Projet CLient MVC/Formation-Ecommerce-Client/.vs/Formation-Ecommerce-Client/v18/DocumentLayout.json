@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|c:\\users\\oussa\\onedrive\\desktop\\formation\\projet full stack mvc\\projet extensions\\projet client mvc\\formation-ecommerce-client\\formation-ecommerce-client.test\\unit\\productapiservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|solutionrelative:formation-ecommerce-client.test\\unit\\productapiservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|c:\\users\\oussa\\onedrive\\desktop\\formation\\projet full stack mvc\\projet extensions\\projet client mvc\\formation-ecommerce-client\\formation-ecommerce-client.test\\fakes\\fakehttpclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|solutionrelative:formation-ecommerce-client.test\\fakes\\fakehttpclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|c:\\users\\oussa\\onedrive\\desktop\\formation\\projet full stack mvc\\projet extensions\\projet client mvc\\formation-ecommerce-client\\formation-ecommerce-client.test\\common\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|solutionrelative:formation-ecommerce-client.test\\common\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|c:\\users\\oussa\\onedrive\\desktop\\formation\\projet full stack mvc\\projet extensions\\projet client mvc\\formation-ecommerce-client\\formation-ecommerce-client.test\\common\\apiresponsebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|solutionrelative:formation-ecommerce-client.test\\common\\apiresponsebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductApiServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Unit\\ProductApiServiceTests.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-Client.Test\\Unit\\ProductApiServiceTests.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Unit\\ProductApiServiceTests.cs",
+              "RelativeToolTip": "Formation-Ecommerce-Client.Test\\Unit\\ProductApiServiceTests.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:13:24.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FakeHttpClientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Fakes\\FakeHttpClientFactory.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-Client.Test\\Fakes\\FakeHttpClientFactory.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Fakes\\FakeHttpClientFactory.cs",
+              "RelativeToolTip": "Formation-Ecommerce-Client.Test\\Fakes\\FakeHttpClientFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:13:20.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Common\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-Client.Test\\Common\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Common\\ValidationHelper.cs",
+              "RelativeToolTip": "Formation-Ecommerce-Client.Test\\Common\\ValidationHelper.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:13:14.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiResponseBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Common\\ApiResponseBuilder.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-Client.Test\\Common\\ApiResponseBuilder.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Common\\ApiResponseBuilder.cs",
+              "RelativeToolTip": "Formation-Ecommerce-Client.Test\\Common\\ApiResponseBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:13:09.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

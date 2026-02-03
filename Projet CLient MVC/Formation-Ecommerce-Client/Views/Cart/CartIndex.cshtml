@@ -1,0 +1,137 @@
+@using Formation_Ecommerce_Client.Models.ViewModels.Cart
+@model CartViewModel
+
+@if (Model.Items != null && Model.Items.Count > 0)
+{
+    <form method="post" asp-action="ApplyCoupon">
+        <br />
+        <input asp-for="UserId" hidden />
+        <input asp-for="CartHeaderId" hidden />
+        <div class="">
+            <div class="card border mt-4 container">
+                <div class="card-header bg-dark text-light ml-0 row ">
+                    <div class="col-6">
+                        <h3 class="text-success"><i class="bi bi-cart"></i> &nbsp; Mon Panier</h3>
+                    </div>
+                    <div class="col-6 text-end">
+                        <a asp-action="Index" asp-controller="Home" class="btn btn-outline-warning mt-2 btn-sm">Continuer vos achats</a>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class=" d-none d-lg-block">
+                        <div class="row text-info">
+                            <div class="col-lg-2">
+                            </div>
+                            <div class="col-lg-5">
+                                Détails du produit
+                            </div>
+                            <div class="col-lg-2">
+                                Prix
+                            </div>
+                            <div class="col-lg-2">
+                                Quantité
+                            </div>
+                            <div class="col-lg-1">
+                            </div>
+                        </div>
+                    </div>
+                    <hr />
+
+                    @for (var i = 0; i < Model.Items.Count; i++)
+                    {
+                        var cartObj = Model.Items[i];
+                        <div class="row h-100 align-items-center">
+                            <!-- Hidden fields for model binding -->
+                            <input type="hidden" name="Items[@i].Id" value="@cartObj.Id" />
+                            <input type="hidden" name="Items[@i].ProductId" value="@cartObj.ProductId" />
+                            <input type="hidden" name="Items[@i].Count" value="@cartObj.Count" />
+                            <input type="hidden" name="Items[@i].Price" value="@cartObj.Price" />
+                            
+                            <!-- Product image -->
+                            <div class="col-4 col-md-2 text-center py-2">
+                                @if(!string.IsNullOrEmpty(cartObj.ImageUrl))
+                                {
+                                    <img src="@cartObj.ImageUrl" class="rounded" width="100%" />
+                                }
+                                else
+                                {
+                                    <img src="https://placehold.co/150x150" class="rounded" width="100%" />
+                                }
+                            </div>
+
+                            <!-- Product details -->
+                            <div class="col-5 col-md-5 py-2 d-flex flex-column justify-content-center">
+                                <h5>@cartObj.ProductName</h5>
+                                <div style="font-size:11px;">@Html.Raw(cartObj.Description)</div>
+                            </div>
+
+                            <!-- Price -->
+                            <div class="col-3 col-md-2 pt-md-4 text-center" style="font-size:17px;">
+                                <span>@string.Format("{0:c}", cartObj.Price) </span>
+                            </div>
+
+                            <!-- Quantity -->
+                            <div class="col-3 col-md-2 pt-md-4 text-center" style="font-size:17px;">
+                                <div class="input-group">
+                                    <span class="input-group-text">@cartObj.Count</span>
+                                </div>
+                                <div class="mt-2 text-center">
+                                    <a asp-action="Remove" asp-route-itemId="@cartObj.Id" class="btn btn-sm btn-danger">
+                                        <i class="bi bi-trash-fill"></i> Supprimer
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- Remove button (redundant if inside col-3, removing separate col) -->
+                        </div>
+                        <hr />
+                    }
+
+                    <div class="row">
+                        <div class="col-6">
+                            @if (string.IsNullOrEmpty(Model.CouponCode))
+                            {
+                                <span>Coupon:</span>
+                                <input asp-for="CouponCode" />
+                                <button type="submit" asp-action="ApplyCoupon" class="btn btn-sm btn-success"> Appliquer </button>
+                            }
+                            else
+                            {
+                                <span>Coupon:</span>
+                                <input asp-for="CouponCode" disabled />
+                                <button type="submit" asp-action="RemoveCoupon" class="btn btn-sm btn-success"> Retirer </button>
+                            }
+                        </div>
+                        <div class="col-6 text-end">
+                            <span class="text-danger" style="font-size:21px;">  Total :  @string.Format("{0:c}", Model.TotalAmount)  <br /></span>
+                            @if (Model.Discount > 0)
+                            {
+                                <span class="text-success"> Réduction :   @string.Format("{0:c}", Model.Discount) </span>
+                                <br />
+                                <span class="text-info" style="font-size:18px;"> Grand Total : @string.Format("{0:c}", Model.GrandTotal)</span>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer row">
+                    <div class="col-6 col-md-3 offset-md-9">
+                        <a asp-action="Checkout" class="btn btn-success form-control">Commander</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+}
+else
+{
+    <div class="container mt-5">
+        <div class="alert alert-warning" role="alert">
+            <h4 class="alert-heading">Votre panier est vide</h4>
+            <p>Il semble que vous n'ayez pas encore ajouté de produits à votre panier.</p>
+            <hr>
+            <p class="mb-0">
+                <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Parcourir les produits</a>
+            </p>
+        </div>
+    </div>
+}

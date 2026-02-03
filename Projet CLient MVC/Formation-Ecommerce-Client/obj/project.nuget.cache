@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "0QmlC1bsgaY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oussa\\.nuget\\packages\\microsoft.extensions.http\\10.0.1\\microsoft.extensions.http.10.0.1.nupkg.sha512",
+    "C:\\Users\\oussa\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.15.0\\microsoft.identitymodel.abstractions.8.15.0.nupkg.sha512",
+    "C:\\Users\\oussa\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.15.0\\microsoft.identitymodel.jsonwebtokens.8.15.0.nupkg.sha512",
+    "C:\\Users\\oussa\\.nuget\\packages\\microsoft.identitymodel.logging\\8.15.0\\microsoft.identitymodel.logging.8.15.0.nupkg.sha512",
+    "C:\\Users\\oussa\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.15.0\\microsoft.identitymodel.tokens.8.15.0.nupkg.sha512",
+    "C:\\Users\\oussa\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.15.0\\system.identitymodel.tokens.jwt.8.15.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "Le PackageReference Microsoft.Extensions.Http ne sera pas supprimé. Envisagez de retirer ce package de vos dépendances, car il est probablement inutile.",
+      "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.csproj",
+      "libraryId": "Microsoft.Extensions.Http",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

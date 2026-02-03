@@ -1,0 +1,54 @@
+@model Formation_Ecommerce_Client.Models.ViewModels.Products.ProductViewModel
+
+@{
+    ViewData["Title"] = "Supprimer le Produit";
+}
+
+<h1>Supprimer le Produit</h1>
+
+<h3>Êtes-vous sûr de vouloir supprimer ce produit ?</h3>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <dl class="row">
+             <dt class = "col-sm-4">
+                Nom
+            </dt>
+            <dd class = "col-sm-8">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class = "col-sm-4">
+                Description
+            </dt>
+            <dd class = "col-sm-8">
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+            <dt class = "col-sm-4">
+                Prix
+            </dt>
+            <dd class = "col-sm-8">
+                @Model.Price.ToString("c")
+            </dd>
+            <dt class = "col-sm-4">
+                Catégorie
+            </dt>
+            <dd class = "col-sm-8">
+                @Html.DisplayFor(model => model.CategoryName)
+            </dd>
+             <dt class="col-sm-4">Image</dt>
+            <dd class="col-sm-8">
+                @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                {
+                    <img src="@Model.ImageUrl" width="100%" style="border-radius:5px; border:1px solid #bbb9b9" />
+                }
+            </dd>
+        </dl>
+        
+        <form asp-action="Delete" method="post">
+            @Html.AntiForgeryToken()
+            <input type="hidden" asp-for="Id" />
+            <input type="submit" value="Supprimer" class="btn btn-danger" /> 
+            <a asp-action="Index" class="btn btn-secondary">Retour à la liste</a>
+        </form>
+    </div>
+</div>

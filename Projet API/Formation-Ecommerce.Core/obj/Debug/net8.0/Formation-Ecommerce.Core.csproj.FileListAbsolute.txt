@@ -1,0 +1,12 @@
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Core\bin\Debug\net8.0\Formation-Ecommerce.Core.deps.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Core\bin\Debug\net8.0\Formation-Ecommerce.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Core\bin\Debug\net8.0\Formation-Ecommerce.Core.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Core\obj\Debug\net8.0\Formation-Ecommerce.Core.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Core\obj\Debug\net8.0\Formation-Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Core\obj\Debug\net8.0\Formation-Ecommerce.Core.AssemblyInfoInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Core\obj\Debug\net8.0\Formation-Ecommerce.Core.AssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Core\obj\Debug\net8.0\Formation-Ecommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Core\obj\Debug\net8.0\Formation-Ecommerce.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Core\obj\Debug\net8.0\refint\Formation-Ecommerce.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Core\obj\Debug\net8.0\Formation-Ecommerce.Core.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Core\obj\Debug\net8.0\ref\Formation-Ecommerce.Core.dll

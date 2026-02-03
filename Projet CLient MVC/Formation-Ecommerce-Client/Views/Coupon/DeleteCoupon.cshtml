@@ -1,0 +1,45 @@
+@model Formation_Ecommerce_Client.Models.ViewModels.Coupons.CouponViewModel
+
+@{
+    ViewData["Title"] = "Supprimer le Coupon";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <h1 class="mb-4 text-danger">Confirmer la suppression</h1>
+
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Êtes-vous sûr de vouloir supprimer ce coupon ?</h5>
+                    
+                    <dl class="row mt-4">
+                        <dt class="col-sm-4">Code Coupon</dt>
+                        <dd class="col-sm-8"><strong>@Model.CouponCode</strong></dd>
+
+                        <dt class="col-sm-4">Montant de réduction</dt>
+                        <dd class="col-sm-8">@Model.DiscountAmount.ToString("C")</dd>
+
+                        <dt class="col-sm-4">Montant minimum</dt>
+                        <dd class="col-sm-8">@Model.MinimumAmount.ToString("C")</dd>
+                    </dl>
+
+                    <div class="alert alert-warning mt-3">
+                        <i class="bi bi-exclamation-triangle"></i> Cette action est irréversible.
+                    </div>
+                </div>
+                <div class="card-footer d-flex gap-2">
+                    <form asp-action="Delete" method="post">
+                        <input type="hidden" name="id" value="@Model.Id" />
+                        <button type="submit" class="btn btn-danger">
+                            <i class="bi bi-trash"></i> Supprimer
+                        </button>
+                    </form>
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="bi bi-arrow-left"></i> Annuler
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

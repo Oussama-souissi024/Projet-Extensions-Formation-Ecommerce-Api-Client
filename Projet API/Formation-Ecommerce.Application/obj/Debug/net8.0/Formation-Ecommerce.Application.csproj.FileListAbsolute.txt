@@ -1,0 +1,15 @@
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\bin\Debug\net8.0\Formation-Ecommerce.Application.deps.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\bin\Debug\net8.0\Formation-Ecommerce.Application.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\bin\Debug\net8.0\Formation-Ecommerce.Application.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\bin\Debug\net8.0\Formation-Ecommerce.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\bin\Debug\net8.0\Formation-Ecommerce.Core.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\obj\Debug\net8.0\Formation-Ecommerce.Application.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\obj\Debug\net8.0\Formation-Ecommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\obj\Debug\net8.0\Formation-Ecommerce.Application.AssemblyInfoInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\obj\Debug\net8.0\Formation-Ecommerce.Application.AssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\obj\Debug\net8.0\Formation-Ecommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\obj\Debug\net8.0\Formatio.57AC8F54.Up2Date
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\obj\Debug\net8.0\Formation-Ecommerce.Application.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\obj\Debug\net8.0\refint\Formation-Ecommerce.Application.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\obj\Debug\net8.0\Formation-Ecommerce.Application.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Application\obj\Debug\net8.0\ref\Formation-Ecommerce.Application.dll

@@ -1,0 +1,212 @@
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\appsettings.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.staticwebassets.runtime.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.staticwebassets.endpoints.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.exe
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.deps.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.runtimeconfig.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.AssemblyInfoInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.AssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.RazorAssemblyInfo.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.RazorAssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\scopedcss\bundle\Formation-Ecommerce-Client.styles.css
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\scopedcss\projectbundle\Formation-Ecommerce-Client.bundle.scp.css
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\5xg2xpphud-{0}-c2tiyv64ts-c2tiyv64ts.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\wiky6yue2n-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\fa0fsab6sb-{0}-rtlox1v7pr-rtlox1v7pr.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\um2omo0vl3-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\u2ovl3hodh-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\cicx2pc94c-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\ocqjz25wbk-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\x26brxyp8h-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\43l613kfu9-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\0ihtnyjewb-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\mrs13u5scf-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\rzlknl82qv-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\029tky42os-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\kt9ttbjnv0-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\zx1mfo1dif-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\m8ii3ufnz0-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\r2005tdpli-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\dwe2qkcoov-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\j26qdxh7f1-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\6n7kzyuxx9-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\a71guwphzf-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\aapo1of5lp-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\ewe4rbepod-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\limx52xwx9-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\afqpewffq8-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\cnxy4echsx-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\orir35d6uj-{0}-06098lyss8-06098lyss8.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\4kxa9da8ci-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\m88bttfc9w-{0}-jzk0clv0my-jzk0clv0my.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\87rqgfe3hj-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\ghvrsgnip3-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\xx1pf70jnz-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\8wv1h3zpdt-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\era3nqh0fj-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\u73wapsv1u-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\n4v8yffzy2-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\yehu5k1zc1-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\mpb5h1e12t-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\1tw7immj9x-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\gkrllnntai-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\fkhpxbyti5-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\q2iox3xw3s-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\icsb4rfrkf-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\guwg7pgnko-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\h8hojp7t2c-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\tg85pf4xqn-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\o56xj9dts7-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\bgfc26p3yu-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\krpqxtuaku-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\y36ss1pxig-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\c93p9dsk4p-{0}-356vix0kms-356vix0kms.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\is2gcdn4zc-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\33upkqpu5w-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\ovks3l5ur9-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\r1v01lb4bu-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\4kxhcl7ila-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\aau5hm41ir-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\bj70nm45d8-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\kexrom9dpd-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\93a9qxzwkc-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\smksojckil-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\vm1znhw5qo-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\r4zan13onr-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\aidt1pa6dt-{0}-ms8f34btgq-ms8f34btgq.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\rcueqmyzrx-{0}-ms8f34btgq-ms8f34btgq.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formatio.77685BF3.Up2Date
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\refint\Formation-Ecommerce-Client.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.genruntimeconfig.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\ref\Formation-Ecommerce-Client.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.AssemblyInfoInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.AssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.RazorAssemblyInfo.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.RazorAssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\refint\Formation-Ecommerce-Client.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\appsettings.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.staticwebassets.endpoints.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.staticwebassets.runtime.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.exe
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.deps.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.runtimeconfig.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Formation-Ecommerce-Client.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\scopedcss\bundle\Formation-Ecommerce-Client.styles.css
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\scopedcss\projectbundle\Formation-Ecommerce-Client.bundle.scp.css
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\5xg2xpphud-{0}-c2tiyv64ts-c2tiyv64ts.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\wiky6yue2n-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\fa0fsab6sb-{0}-rtlox1v7pr-rtlox1v7pr.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\um2omo0vl3-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\u2ovl3hodh-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\cicx2pc94c-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\ocqjz25wbk-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\x26brxyp8h-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\43l613kfu9-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\0ihtnyjewb-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\mrs13u5scf-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\rzlknl82qv-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\029tky42os-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\kt9ttbjnv0-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\zx1mfo1dif-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\m8ii3ufnz0-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\r2005tdpli-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\dwe2qkcoov-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\j26qdxh7f1-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\6n7kzyuxx9-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\a71guwphzf-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\aapo1of5lp-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\ewe4rbepod-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\limx52xwx9-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\afqpewffq8-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\cnxy4echsx-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\orir35d6uj-{0}-06098lyss8-06098lyss8.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\4kxa9da8ci-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\m88bttfc9w-{0}-jzk0clv0my-jzk0clv0my.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\87rqgfe3hj-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\ghvrsgnip3-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\xx1pf70jnz-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\8wv1h3zpdt-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\era3nqh0fj-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\u73wapsv1u-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\n4v8yffzy2-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\yehu5k1zc1-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\mpb5h1e12t-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\1tw7immj9x-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\gkrllnntai-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\fkhpxbyti5-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\q2iox3xw3s-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\icsb4rfrkf-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\guwg7pgnko-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\h8hojp7t2c-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\tg85pf4xqn-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\o56xj9dts7-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\bgfc26p3yu-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\krpqxtuaku-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\y36ss1pxig-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\c93p9dsk4p-{0}-356vix0kms-356vix0kms.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\is2gcdn4zc-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\33upkqpu5w-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\ovks3l5ur9-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\r1v01lb4bu-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\4kxhcl7ila-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\aau5hm41ir-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\bj70nm45d8-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\kexrom9dpd-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\93a9qxzwkc-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\smksojckil-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\vm1znhw5qo-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\r4zan13onr-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\aidt1pa6dt-{0}-ms8f34btgq-ms8f34btgq.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\compressed\rcueqmyzrx-{0}-ms8f34btgq-ms8f34btgq.gz
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formatio.77685BF3.Up2Date
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\Formation-Ecommerce-Client.genruntimeconfig.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\ref\Formation-Ecommerce-Client.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet CLient MVC\Formation-Ecommerce-Client\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44193D58-8408-4F97-9482-A88D2CE0C934}|Formation-Ecommerce-11-2025.Test\\Formation-Ecommerce-11-2025.Test.csproj|c:\\users\\oussa\\onedrive\\desktop\\formation\\projet full stack mvc\\projet extensions\\projet api\\formation-ecommerce-11-2025.test\\fakes\\fakeproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44193D58-8408-4F97-9482-A88D2CE0C934}|Formation-Ecommerce-11-2025.Test\\Formation-Ecommerce-11-2025.Test.csproj|solutionrelative:formation-ecommerce-11-2025.test\\fakes\\fakeproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44193D58-8408-4F97-9482-A88D2CE0C934}|Formation-Ecommerce-11-2025.Test\\Formation-Ecommerce-11-2025.Test.csproj|c:\\users\\oussa\\onedrive\\desktop\\formation\\projet full stack mvc\\projet extensions\\projet api\\formation-ecommerce-11-2025.test\\formation-ecommerce-11-2025.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44193D58-8408-4F97-9482-A88D2CE0C934}|Formation-Ecommerce-11-2025.Test\\Formation-Ecommerce-11-2025.Test.csproj|solutionrelative:formation-ecommerce-11-2025.test\\formation-ecommerce-11-2025.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FakeProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet API\\Formation-Ecommerce-11-2025.Test\\Fakes\\FakeProductRepository.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025.Test\\Fakes\\FakeProductRepository.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet API\\Formation-Ecommerce-11-2025.Test\\Fakes\\FakeProductRepository.cs",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025.Test\\Fakes\\FakeProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:36:19.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formation-Ecommerce-11-2025.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet API\\Formation-Ecommerce-11-2025.Test\\Formation-Ecommerce-11-2025.Test.csproj",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025.Test\\Formation-Ecommerce-11-2025.Test.csproj",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet API\\Formation-Ecommerce-11-2025.Test\\Formation-Ecommerce-11-2025.Test.csproj",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025.Test\\Formation-Ecommerce-11-2025.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-01T15:17:43.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

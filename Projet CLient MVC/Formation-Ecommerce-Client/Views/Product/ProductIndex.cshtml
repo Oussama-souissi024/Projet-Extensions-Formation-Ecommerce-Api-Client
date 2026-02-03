@@ -1,0 +1,71 @@
+@model IEnumerable<Formation_Ecommerce_Client.Models.ViewModels.Products.ProductViewModel>
+
+@{
+    ViewData["Title"] = "Liste des Produits";
+}
+
+<div class="row mb-3">
+    <div class="col-6">
+        <h1>Liste des Produits</h1>
+    </div>
+    <div class="col-6 text-end">
+        <a asp-action="Create" class="btn btn-primary"><i class="bi bi-plus-circle"></i> Nouveau Produit</a>
+    </div>
+</div>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Success"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["Error"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Nom</th>
+            <th>Description</th>
+            <th>Prix</th>
+            <th>Catégorie</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="width: 150px;">
+                    @if (!string.IsNullOrEmpty(item.ImageUrl))
+                    {
+                         <img src="@item.ImageUrl" style="width:100px; height:auto; object-fit: cover;" class="img-thumbnail" />
+                    }
+                    else
+                    {
+                        <span class="text-muted">Pas d'image</span>
+                    }
+                </td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Price.ToString("c")</td>
+                <td>@item.CategoryName</td>
+                <td>
+                    <div class="btn-group" role="group">
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info mx-1"> <i class="bi bi-eye"></i> Détails</a>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning mx-1"> <i class="bi bi-pencil-square"></i> Modifier</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger mx-1"> <i class="bi bi-trash-fill"></i> Supprimer</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

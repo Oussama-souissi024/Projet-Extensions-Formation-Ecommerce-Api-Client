@@ -1,0 +1,50 @@
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Core\bin\Debug\net8.0\Formation-Ecommerce-11-2025.Core.deps.json
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Core\bin\Debug\net8.0\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Core\bin\Debug\net8.0\Formation-Ecommerce-11-2025.Core.pdb
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.csproj.AssemblyReference.cache
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.AssemblyInfoInputs.cache
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.AssemblyInfo.cs
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.csproj.CoreCompileInputs.cache
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\refint\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.pdb
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\ref\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.sourcelink.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Formation-Ecommerce-11-2025\Formation-Ecommerce-11-2025.Core\bin\Debug\net8.0\Formation-Ecommerce-11-2025.Core.deps.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Formation-Ecommerce-11-2025\Formation-Ecommerce-11-2025.Core\bin\Debug\net8.0\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Formation-Ecommerce-11-2025\Formation-Ecommerce-11-2025.Core\bin\Debug\net8.0\Formation-Ecommerce-11-2025.Core.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Formation-Ecommerce-11-2025\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Formation-Ecommerce-11-2025\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Formation-Ecommerce-11-2025\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.AssemblyInfoInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Formation-Ecommerce-11-2025\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.AssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Formation-Ecommerce-11-2025\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Formation-Ecommerce-11-2025\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.sourcelink.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Formation-Ecommerce-11-2025\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Formation-Ecommerce-11-2025\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\refint\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Formation-Ecommerce-11-2025\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Formation-Ecommerce-11-2025\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\ref\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\bin\Debug\net8.0\Formation-Ecommerce-11-2025.Core.deps.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\bin\Debug\net8.0\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\bin\Debug\net8.0\Formation-Ecommerce-11-2025.Core.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.AssemblyInfoInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.AssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\refint\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\ref\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\bin\Debug\net8.0\Formation-Ecommerce-11-2025.Core.deps.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\bin\Debug\net8.0\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\bin\Debug\net8.0\Formation-Ecommerce-11-2025.Core.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.AssemblyInfoInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.AssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\refint\Formation-Ecommerce-11-2025.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Core.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce-11-2025.Core\obj\Debug\net8.0\ref\Formation-Ecommerce-11-2025.Core.dll

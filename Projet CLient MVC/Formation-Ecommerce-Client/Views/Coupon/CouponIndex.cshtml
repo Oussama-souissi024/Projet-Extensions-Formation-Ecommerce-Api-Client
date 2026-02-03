@@ -1,0 +1,74 @@
+@model IEnumerable<Formation_Ecommerce_Client.Models.ViewModels.Coupons.CouponViewModel>
+
+@{
+    ViewData["Title"] = "Liste des Coupons";
+}
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Liste des Coupons</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Coupon" asp-action="Create" class="btn btn-primary">
+                <i class="bi bi-plus-circle"></i> Créer un Coupon
+            </a>
+        </div>
+    </div>
+    <br />
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["Success"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            @TempData["Error"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    @if (Model.Any())
+    {
+        <table class="table table-bordered table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Code Coupon</th>
+                    <th>Remise</th>
+                    <th>Montant Minimum</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model)
+                {
+                    <tr>
+                        <td>@obj.CouponCode</td>
+                        <td>@obj.DiscountAmount.ToString("c")</td>
+                        <td>@obj.MinimumAmount.ToString("c")</td>
+                        <td>
+                            <div class="btn-group" role="group">
+                                <a asp-controller="Coupon" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-warning mx-1">
+                                    <i class="bi bi-pencil-square"></i> Modifier
+                                </a>
+                                <a asp-controller="Coupon" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-1">
+                                    <i class="bi bi-trash-fill"></i> Supprimer
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Aucun coupon disponible.</p>
+    }
+</div>
+
