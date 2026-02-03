@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lh2CNhuD0IE=",
+  "dgSpecHash": "+59XtU3pqYU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet API\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj",
+  "projectFilePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet extensions\\Projet API\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oussa\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\oussa\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.11\\microsoft.aspnetcore.cryptography.internal.8.0.11.nupkg.sha512",

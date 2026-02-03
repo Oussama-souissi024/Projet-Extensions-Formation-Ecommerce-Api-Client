@@ -5,26 +5,10 @@ using System.Net.Http.Headers;
 
 namespace Formation_Ecommerce_Client.Services.Implementations
 {
-    /// <summary>
-    /// Contrat du service HTTP produits côté Client MVC : expose les opérations CRUD sur les produits via l'API.
-    /// </summary>
-    /// <remarks>
-    /// Points pédagogiques :
-    /// - Le contrat hérite de <see cref="IApiServiceBase{TDto,TCreateDto,TUpdateDto}"/> pour uniformiser le CRUD côté UI.
-    /// - Les créations/mises à jour peuvent utiliser <c>multipart/form-data</c> pour supporter l'upload d'image.
-    /// </remarks>
     public interface IProductApiService : IApiServiceBase<ProductViewModel, CreateProductViewModel, UpdateProductViewModel>
     {
     }
 
-    /// <summary>
-    /// Implémentation du service HTTP produits : consomme les endpoints API (JSON + multipart) et remonte des ViewModels pour l'IHM.
-    /// </summary>
-    /// <remarks>
-    /// Différences pédagogiques vs le projet monolithique MVC :
-    /// - L'UI n'accède pas à EF Core : l'API est la seule couche exposant la persistance et les validations.
-    /// - Le JWT est injecté dans l'en-tête Authorization pour les opérations nécessitant une identité.
-    /// </remarks>
     public class ProductApiService : IProductApiService
     {
         private readonly HttpClient _httpClient;

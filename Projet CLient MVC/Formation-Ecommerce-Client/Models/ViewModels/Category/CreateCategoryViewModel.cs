@@ -2,22 +2,16 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Formation_Ecommerce_Client.Models.ViewModels.Categories
 {
-    /// <summary>
-    /// Modèle de présentation côté Client MVC : données du formulaire de création de catégorie envoyées à l'API.
-    /// </summary>
-    /// <remarks>
-    /// Dans l'architecture client/serveur, le client valide la saisie (DataAnnotations) puis délègue la création et la persistance à l'API.
-    /// </remarks>
     public class CreateCategoryViewModel
     {
-        // Nom de la catégorie affiché dans le menu
-        [Required(ErrorMessage = "Le nom de la catégorie est requis.")]
-        [MaxLength(100, ErrorMessage = "Le nom de la catégorie ne peut pas dépasser 100 caractères.")]
+        // Nom de la cat�gorie affich� dans le menu
+        [Required(ErrorMessage = "Le nom de la cat�gorie est requis.")]
+        [MaxLength(100, ErrorMessage = "Le nom de la cat�gorie ne peut pas d�passer 100 caract�res.")]
         public string Name { get; set; }
 
-        // Description optionnelle de la catégorie
-        [Required(ErrorMessage = "La description de la catégorie est requis.")]
-        [MaxLength(500, ErrorMessage = "La description ne peut pas dépasser 500 caractères.")]
+        // Description optionnelle de la cat�gorie
+        [Required(ErrorMessage = "La description de la cat�gorie est requis.")]
+        [MaxLength(500, ErrorMessage = "La description ne peut pas d�passer 500 caract�res.")]
         public string Description { get; set; }
 
     }

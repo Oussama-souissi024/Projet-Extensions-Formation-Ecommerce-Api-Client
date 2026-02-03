@@ -15,3 +15,21 @@ C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extension
 C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\Formation-Ecommerce.Infrastructure.pdb
 C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\Formation-Ecommerce.Infrastructure.genruntimeconfig.cache
 C:\Users\oussa\OneDrive\Desktop\Formation\Projet full stack MVC\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\ref\Formation-Ecommerce.Infrastructure.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\bin\Debug\net8.0\Formation-Ecommerce.Infrastructure.deps.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\bin\Debug\net8.0\Formation-Ecommerce.Infrastructure.runtimeconfig.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\bin\Debug\net8.0\Formation-Ecommerce.Infrastructure.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\bin\Debug\net8.0\Formation-Ecommerce.Infrastructure.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\bin\Debug\net8.0\Formation-Ecommerce.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\bin\Debug\net8.0\Formation-Ecommerce.Core.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\Formation-Ecommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\Formation-Ecommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\Formation-Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\Formation-Ecommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\Formation-Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\Formation-Ecommerce.Infrastructure.sourcelink.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\Formatio.C1329374.Up2Date
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\Formation-Ecommerce.Infrastructure.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\refint\Formation-Ecommerce.Infrastructure.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\Formation-Ecommerce.Infrastructure.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\Formation-Ecommerce.Infrastructure.genruntimeconfig.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Projet extensions\Projet API\Formation-Ecommerce.Infrastructure\obj\Debug\net8.0\ref\Formation-Ecommerce.Infrastructure.dll

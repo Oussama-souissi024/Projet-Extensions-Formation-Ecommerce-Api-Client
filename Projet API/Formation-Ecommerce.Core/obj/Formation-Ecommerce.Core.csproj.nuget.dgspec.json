@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet API\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj": {}
+    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet extensions\\Projet API\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet API\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj": {
+    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet extensions\\Projet API\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet API\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj",
+        "projectUniqueName": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet extensions\\Projet API\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj",
         "projectName": "Formation-Ecommerce.Core",
-        "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet API\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj",
+        "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet extensions\\Projet API\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj",
         "packagesPath": "C:\\Users\\oussa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet API\\Formation-Ecommerce.Core\\obj\\",
+        "outputPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet extensions\\Projet API\\Formation-Ecommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

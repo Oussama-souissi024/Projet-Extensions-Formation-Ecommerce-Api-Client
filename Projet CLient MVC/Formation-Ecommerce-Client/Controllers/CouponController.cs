@@ -5,15 +5,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Formation_Ecommerce_Client.Controllers
 {
-    /// <summary>
-    /// Contrôleur MVC côté Client : gère les pages de gestion des coupons (liste/création/édition/suppression) via l'API.
-    /// </summary>
-    /// <remarks>
-    /// Différences pédagogiques vs le projet monolithique MVC :
-    /// - Ici, l'UI consomme des endpoints REST et n'exécute aucune logique de persistance.
-    /// - <see cref="ICouponApiService"/> encapsule la communication HTTP (Bearer JWT, endpoints, sérialisation JSON).
-    /// - Les validations métier (ex: existence du coupon) sont validées côté API ; côté Client on gère la présentation des erreurs.
-    /// </remarks>
     [AuthorizeApi]
     public class CouponController : Controller
     {

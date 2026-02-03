@@ -5,15 +5,6 @@ using System.Net.Http.Headers;
 
 namespace Formation_Ecommerce_Client.Services.Implementations
 {
-    /// <summary>
-    /// Contrat du service HTTP panier côté Client MVC : regroupe les opérations de lecture/mutation du panier via l'API.
-    /// </summary>
-    /// <remarks>
-    /// Points pédagogiques :
-    /// - Le panier n'est pas stocké dans l'application MVC : toutes les actions passent par des endpoints REST sécurisés.
-    /// - Le service masque les détails HttpClient (routes, JSON) et renvoie des ViewModels prêts pour l'IHM.
-    /// - Le JWT est envoyé en Bearer (si présent en session) pour authentifier l'utilisateur côté API.
-    /// </remarks>
     public interface ICartApiService
     {
         Task<CartViewModel> GetCartAsync();
@@ -25,15 +16,6 @@ namespace Formation_Ecommerce_Client.Services.Implementations
         Task ClearCartAsync();
     }
 
-    /// <summary>
-    /// Implémentation du service HTTP panier : exécute les appels vers l'API et mappe les DTO API vers des ViewModels UI.
-    /// </summary>
-    /// <remarks>
-    /// Différences pédagogiques vs le projet monolithique MVC :
-    /// - Ici, pas d'accès direct à EF Core : toute la persistance est déportée côté API.
-    /// - L'authentification se fait par JWT : le service configure l'en-tête <c>Authorization: Bearer</c> au démarrage.
-    /// - Le mapping (DTO -&gt; ViewModel) permet de découpler l'IHM des contrats API et d'adapter l'affichage sans toucher au serveur.
-    /// </remarks>
     public class CartApiService : ICartApiService
     {
         private readonly HttpClient _httpClient;

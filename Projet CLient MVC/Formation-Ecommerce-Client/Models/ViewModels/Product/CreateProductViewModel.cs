@@ -2,37 +2,29 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Formation_Ecommerce_Client.Models.ViewModels.Products
 {
-    /// <summary>
-    /// Modèle de présentation côté Client MVC : données du formulaire de création d'un produit.
-    /// </summary>
-    /// <remarks>
-    /// Points pédagogiques :
-    /// - Dans l'architecture client/serveur, ce modèle est envoyé à l'API via un service HTTP (souvent en <c>multipart/form-data</c> à cause de l'image).
-    /// - Les validations UI (DataAnnotations) améliorent la saisie, mais l'API reste la source de vérité pour les règles métier.
-    /// </remarks>
     public class CreateProductViewModel
     {
         [Required(ErrorMessage = "Le nom du produit est obligatoire")]
-        [StringLength(200, MinimumLength = 2, ErrorMessage = "Le nom doit contenir entre 2 et 200 caractères")]
+        [StringLength(200, MinimumLength = 2, ErrorMessage = "Le nom doit contenir entre 2 et 200 caract�res")]
         public string Name { get; set; }
 
         [Required(ErrorMessage = "Le prix est obligatoire")]
-        [Range(0.01, 100000, ErrorMessage = "Le prix doit être compris entre 0,01 et 100 000")]
+        [Range(0.01, 100000, ErrorMessage = "Le prix doit �tre compris entre 0,01 et 100 000")]
         public decimal Price { get; set; }
 
-        [StringLength(1000, ErrorMessage = "La description ne peut pas dépasser 1000 caractères")]
+        [StringLength(1000, ErrorMessage = "La description ne peut pas d�passer 1000 caract�res")]
         public string Description { get; set; }
 
         [Display(Name = "URL de l'image")]
         public string? ImageUrl { get; set; }
 
-        [Range(0, 10000, ErrorMessage = "La quantité doit être comprise entre 0 et 10 000")]
+        [Range(0, 10000, ErrorMessage = "La quantit� doit �tre comprise entre 0 et 10 000")]
         public int? Count { get; set; } = 1;
 
         [Display(Name = "Image du produit")]
         public IFormFile ImageFile { get; set; }
 
-        [Required(ErrorMessage = "La catégorie est obligatoire")]
+        [Required(ErrorMessage = "La cat�gorie est obligatoire")]
         public Guid? CategoryId { get; set; }
     }
 }

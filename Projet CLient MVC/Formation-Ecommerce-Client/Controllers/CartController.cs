@@ -5,15 +5,6 @@ using Formation_Ecommerce_Client.Models.ViewModels.Cart;
 
 namespace Formation_Ecommerce_Client.Controllers
 {
-    /// <summary>
-    /// Contrôleur MVC côté Client : gère les pages liées au panier et délègue les opérations à l'API via un service HTTP.
-    /// </summary>
-    /// <remarks>
-    /// Différences pédagogiques vs le projet monolithique MVC :
-    /// - Le contrôleur n'accède plus directement au DbContext / services Application ; il appelle <see cref="ICartApiService"/>.
-    /// - L'attribut <see cref="AuthorizeApiAttribute"/> s'appuie sur le JWT stocké en session pour reconstituer l'identité côté UI.
-    /// - Les erreurs peuvent provenir du réseau/HTTP : elles sont traduites ici en messages utilisateur (TempData) et redirections.
-    /// </remarks>
     [AuthorizeApi]
     public class CartController : Controller
     {

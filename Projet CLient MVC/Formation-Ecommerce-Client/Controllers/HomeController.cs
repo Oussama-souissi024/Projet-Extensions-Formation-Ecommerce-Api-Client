@@ -7,15 +7,6 @@ using Formation_Ecommerce_Client.Models.ViewModels.Cart;
 
 namespace Formation_Ecommerce_Client.Controllers
 {
-    /// <summary>
-    /// Contrôleur MVC côté Client : gère les pages publiques (accueil, détail produit, erreurs) en consommant l'API.
-    /// </summary>
-    /// <remarks>
-    /// Points pédagogiques :
-    /// - Le contenu affiché (produits/catégories/panier) provient d'appels HTTP vers l'API, via des services dédiés.
-    /// - Le contrôleur orchestre l'IHM (sélection de vues, TempData) et reste indépendant des détails serveur (EF/Identity).
-    /// - Certaines actions (ajout au panier) nécessitent un JWT : <see cref="AuthorizeApiAttribute"/> protège alors l'action.
-    /// </remarks>
     public class HomeController : Controller
     {
         private readonly IProductApiService _productService;

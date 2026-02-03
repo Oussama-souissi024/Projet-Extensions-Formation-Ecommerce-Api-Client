@@ -5,15 +5,6 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace Formation_Ecommerce_Client.Controllers
 {
-    /// <summary>
-    /// Contrôleur MVC côté Client : gère les pages produits (liste/création/édition/détails/suppression) en consommant l'API.
-    /// </summary>
-    /// <remarks>
-    /// Points pédagogiques :
-    /// - Dans l'architecture client/serveur, l'UI ne manipule pas directement EF Core : elle envoie des requêtes HTTP (JSON/multipart).
-    /// - Les appels sont regroupés dans <see cref="IProductApiService"/> (produits) et <see cref="ICategoryApiService"/> (listes).
-    /// - Les erreurs typiques à gérer côté UI : API indisponible, validation serveur, erreurs HTTP, etc.
-    /// </remarks>
     public class ProductController : Controller
     {
         private readonly IProductApiService _productService;

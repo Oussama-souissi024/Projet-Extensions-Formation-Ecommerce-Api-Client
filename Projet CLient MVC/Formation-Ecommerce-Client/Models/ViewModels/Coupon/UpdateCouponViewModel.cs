@@ -2,12 +2,6 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Formation_Ecommerce_Client.Models.ViewModels.Coupons
 {
-    /// <summary>
-    /// Modèle de présentation côté Client MVC : données du formulaire d'édition d'un coupon envoyées à l'API.
-    /// </summary>
-    /// <remarks>
-    /// Le service HTTP coupons transforme ce modèle en payload JSON (PUT) vers l'API.
-    /// </remarks>
     public class UpdateCouponViewModel
     {
         public Guid Id { get; set; }

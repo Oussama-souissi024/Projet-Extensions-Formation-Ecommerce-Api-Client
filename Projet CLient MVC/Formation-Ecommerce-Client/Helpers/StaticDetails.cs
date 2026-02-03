@@ -1,13 +1,5 @@
 namespace Formation_Ecommerce_Client.Helpers
 {
-    /// <summary>
-    /// Classe utilitaire côté Client MVC : centralise des constantes (statuts, rôles) utilisées par l'IHM.
-    /// </summary>
-    /// <remarks>
-    /// Points pédagogiques :
-    /// - Dans une architecture client/serveur, ces valeurs doivent rester alignées avec le serveur (API) pour filtrer/afficher correctement les états.
-    /// - Même si le client peut afficher/filtrer via ces constantes, la source de vérité des règles d'accès reste l'API.
-    /// </remarks>
     public static class StaticDetails
     {
         public const string StatusPending = "Pending";

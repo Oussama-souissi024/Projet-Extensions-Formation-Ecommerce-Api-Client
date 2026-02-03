@@ -4,14 +4,6 @@ using System.Net.Http.Headers;
 
 namespace Formation_Ecommerce_Client.Services.Implementations
 {
-    /// <summary>
-    /// Contrat du service HTTP catégories côté Client MVC : encapsule les appels CRUD vers l'API pour la ressource « Category ».
-    /// </summary>
-    /// <remarks>
-    /// Points pédagogiques :
-    /// - Dans l'architecture client/serveur, ce service remplace l'appel direct à la couche Application du monolithe.
-    /// - Il centralise la route, la sérialisation JSON et l'authentification Bearer (JWT en session).
-    /// </remarks>
     public interface ICategoryApiService
     {
         Task<IEnumerable<CategoryViewModel>> GetAllAsync();
@@ -21,14 +13,6 @@ namespace Formation_Ecommerce_Client.Services.Implementations
         Task DeleteAsync(Guid id);
     }
 
-    /// <summary>
-    /// Implémentation du service HTTP catégories : utilise HttpClient pour consommer l'API et retourne des ViewModels UI.
-    /// </summary>
-    /// <remarks>
-    /// Différences pédagogiques vs le projet monolithique MVC :
-    /// - Les validations et la persistance sont côté API ; le client ne fait qu'orchestrer les écrans.
-    /// - Les erreurs HTTP (4xx/5xx) sont remontées via <c>EnsureSuccessStatusCode()</c> pour être gérées par l'UI.
-    /// </remarks>
     public class CategoryApiService : ICategoryApiService
     {
         private readonly HttpClient _httpClient;

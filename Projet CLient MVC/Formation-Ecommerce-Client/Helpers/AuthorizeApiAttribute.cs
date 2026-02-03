@@ -4,15 +4,6 @@ using System.IdentityModel.Tokens.Jwt;
 
 namespace Formation_Ecommerce_Client.Helpers
 {
-    /// <summary>
-    /// Filtre MVC côté Client : vérifie la présence/validité du JWT en session et hydrate le <see cref="System.Security.Claims.ClaimsPrincipal"/>.
-    /// </summary>
-    /// <remarks>
-    /// Différences pédagogiques vs le projet monolithique MVC :
-    /// - Dans le monolithe, l'authentification est souvent basée sur cookies Identity et <c>User</c> est alimenté automatiquement.
-    /// - Ici, le Client MVC n'est pas la source de vérité : il stocke un JWT obtenu depuis l'API et doit reconstruire l'identité.
-    /// - Cette étape permet d'utiliser <c>User.IsInRole(...)</c> dans les vues Razor (menus, boutons), sans remplacer la sécurité API.
-    /// </remarks>
     public class AuthorizeApiAttribute : ActionFilterAttribute
     {
         public override void OnActionExecuting(ActionExecutingContext context)

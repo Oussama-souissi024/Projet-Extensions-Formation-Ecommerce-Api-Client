@@ -7,15 +7,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Formation_Ecommerce_Client.Controllers
 {
-    /// <summary>
-    /// Contrôleur MVC côté Client : gère le parcours commande (checkout, confirmation, suivi) en déléguant à l'API.
-    /// </summary>
-    /// <remarks>
-    /// Différences pédagogiques vs le projet monolithique MVC :
-    /// - Dans le monolithe, le contrôleur pouvait composer directement des objets métier en mémoire + persister via la couche Application.
-    /// - Ici, la création/gestion des commandes se fait via des endpoints API ; le client joue un rôle d'orchestrateur UI.
-    /// - Le filtrage par rôle (<c>Admin</c>) s'appuie sur les claims reconstruits depuis le JWT (voir <see cref="AuthorizeApiAttribute"/>).
-    /// </remarks>
     [AuthorizeApi]
     public class OrderController : Controller
     {

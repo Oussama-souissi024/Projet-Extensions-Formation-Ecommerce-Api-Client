@@ -2,14 +2,6 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Formation_Ecommerce_Client.Models.ViewModels.Products
 {
-    /// <summary>
-    /// Modèle de présentation côté Client MVC : données du formulaire de modification d'un produit.
-    /// </summary>
-    /// <remarks>
-    /// Points pédagogiques :
-    /// - Les modifications sont envoyées à l'API via un service HTTP (PUT), potentiellement en <c>multipart/form-data</c> si une image est fournie.
-    /// - Le client manipule un modèle orienté écran (champs, labels), l'API applique les validations et persistances.
-    /// </remarks>
     public class UpdateProductViewModel
     {
         public Guid Id { get; set; }

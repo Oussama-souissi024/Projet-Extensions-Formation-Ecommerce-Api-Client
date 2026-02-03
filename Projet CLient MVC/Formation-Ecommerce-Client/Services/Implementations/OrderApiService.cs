@@ -6,14 +6,6 @@ using System.Net.Http.Headers;
 
 namespace Formation_Ecommerce_Client.Services.Implementations
 {
-    /// <summary>
-    /// Contrat du service HTTP commandes côté Client MVC : centralise la consultation et la gestion du cycle de vie d'une commande via l'API.
-    /// </summary>
-    /// <remarks>
-    /// Points pédagogiques :
-    /// - Les actions (création, annulation, validation, etc.) correspondent à des endpoints API : le client n'exécute pas la logique métier.
-    /// - Le JWT (Bearer) permet à l'API d'identifier l'utilisateur et d'appliquer les règles d'autorisation (Admin/Customer).
-    /// </remarks>
     public interface IOrderApiService
     {
         Task<IEnumerable<OrderViewModel>> GetMyOrdersAsync();
@@ -27,14 +19,6 @@ namespace Formation_Ecommerce_Client.Services.Implementations
         Task<bool> CompleteOrderAsync(Guid orderId);
     }
 
-    /// <summary>
-    /// Implémentation du service HTTP commandes : exécute les requêtes HTTP et transforme les DTO API en ViewModels UI.
-    /// </summary>
-    /// <remarks>
-    /// Différences pédagogiques vs le projet monolithique MVC :
-    /// - Les calculs et persistances sont côté API ; ici on orchestre l'échange réseau et la mise en forme pour l'écran.
-    /// - La création de commande illustre une orchestration client : récupération du panier via l'API puis envoi d'un payload de commande.
-    /// </remarks>
     public class OrderApiService : IOrderApiService
     {
         private readonly HttpClient _httpClient;

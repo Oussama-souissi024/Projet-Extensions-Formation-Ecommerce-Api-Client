@@ -4,15 +4,6 @@ using Formation_Ecommerce_Client.Models.ViewModels.Auth;
 
 namespace Formation_Ecommerce_Client.Services.Implementations
 {
-    /// <summary>
-    /// Contrat du service HTTP d'authentification côté Client MVC : encapsule les appels API (register/login/token).
-    /// </summary>
-    /// <remarks>
-    /// Points pédagogiques :
-    /// - Le Client MVC ne parle pas à la base de données : il consomme l'API via HttpClient.
-    /// - Les méthodes correspondent aux endpoints API (ex: <c>POST /api/auth/login</c>, <c>GET /api/auth/confirm-email</c>).
-    /// - La gestion du token (stockage, suppression) est centralisée ici pour éviter de dupliquer du code dans les contrôleurs.
-    /// </remarks>
     public interface IAuthApiService
     {
         Task<TokenResponse> LoginAsync(LoginViewModel model);
@@ -23,15 +14,6 @@ namespace Formation_Ecommerce_Client.Services.Implementations
         Task<bool> ResetPasswordAsync(ResetPasswordViewModel model);
     }
 
-    /// <summary>
-    /// Implémentation du service HTTP d'authentification : exécute les appels vers l'API et stocke le JWT côté client.
-    /// </summary>
-    /// <remarks>
-    /// Différences pédagogiques vs le projet monolithique MVC :
-    /// - Le login ne déclenche pas un cookie d'auth serveur ; il récupère un JWT et le stocke (ici en Session).
-    /// - Les erreurs HTTP (401/500) sont traduites en exceptions/messages UI (TempData/ModelState).
-    /// - Le reste des fonctionnalités (confirm email, reset password) s'appuie sur les mêmes workflows côté serveur.
-    /// </remarks>
     public class AuthApiService : IAuthApiService
     {
         private readonly HttpClient _httpClient;

@@ -1,13 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 
 namespace Formation_Ecommerce_Client.Models.ViewModels.Products
 {
-    /// <summary>
-    /// Modèle de présentation côté Client MVC : données affichées lors de la confirmation de suppression d'un produit.
-    /// </summary>
-    /// <remarks>
-    /// Le client présente un récapitulatif puis déclenche une requête HTTP vers l'API pour supprimer le produit.
-    /// </remarks>
     public class DeleteProductViewModel
     {
         public Guid Id { get; set; }
@@ -25,7 +19,7 @@ namespace Formation_Ecommerce_Client.Models.ViewModels.Products
         [Display(Name = "Image")]
         public string? ImageUrl { get; set; }
 
-        [Display(Name = "Catégorie")]
+        [Display(Name = "Cat�gorie")]
         public string? CategoryName { get; set; }
     }
 }

@@ -1,13 +1,5 @@
 namespace Formation_Ecommerce_Client.Models.ViewModels.Cart
 {
-    /// <summary>
-    /// Modèle de présentation côté Client MVC : représente une ligne de panier telle qu'affichée dans l'IHM.
-    /// </summary>
-    /// <remarks>
-    /// Différences pédagogiques vs le projet monolithique MVC :
-    /// - La quantité, le prix et l'image proviennent d'une réponse API, pas d'un accès direct à la base.
-    /// - Les propriétés calculées (ex: <see cref="Total"/>) sont purement UI et ne remplacent pas les calculs côté serveur.
-    /// </remarks>
     public class CartItemViewModel
     {
         public Guid Id { get; set; }

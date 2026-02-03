@@ -66,14 +66,4 @@ app.MapControllerRoute(
 
 app.Run();
 
-/// <summary>
-/// Point d'entrée du Client MVC (UI) de l'extension "API + Client MVC".
-/// </summary>
-/// <remarks>
-/// Différences pédagogiques vs le projet monolithique MVC :
-/// - Cette application n'accède plus directement aux services Application/Infrastructure.
-/// - Elle configure un <see cref="System.Net.Http.HttpClient"/> (nommé "ApiClient") pour consommer l'API REST (JSON/multipart).
-/// - Le JWT est stocké côté client (ici via Session) et ajouté aux appels HTTP pour accéder aux endpoints protégés.
-/// - Les contrôleurs MVC restent côté UI (Views Razor), mais délèguent la logique à des services HTTP (dossier Services).
-/// </remarks>
 public partial class Program { }

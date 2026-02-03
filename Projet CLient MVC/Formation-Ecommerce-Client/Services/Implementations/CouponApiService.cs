@@ -4,14 +4,6 @@ using System.Net.Http.Headers;
 
 namespace Formation_Ecommerce_Client.Services.Implementations
 {
-    /// <summary>
-    /// Contrat du service HTTP coupons côté Client MVC : expose les opérations de gestion et de validation de coupons via l'API.
-    /// </summary>
-    /// <remarks>
-    /// Points pédagogiques :
-    /// - Les contrôleurs MVC appellent ce service au lieu d'accéder à une base de données.
-    /// - Le service gère la communication HTTP (routes, JSON) et l'authentification Bearer (JWT) pour les actions protégées.
-    /// </remarks>
     public interface ICouponApiService
     {
         Task<IEnumerable<CouponViewModel>> GetAllAsync();
@@ -22,14 +14,6 @@ namespace Formation_Ecommerce_Client.Services.Implementations
         Task DeleteAsync(Guid id);
     }
 
-    /// <summary>
-    /// Implémentation du service HTTP coupons : consomme les endpoints REST et renvoie des ViewModels utilisables par l'IHM.
-    /// </summary>
-    /// <remarks>
-    /// Différences pédagogiques vs le projet monolithique MVC :
-    /// - La logique métier (ex: coupon inexistant) est gérée côté API ; ici on traduit surtout des statuts HTTP en résultats UI.
-    /// - Le token JWT est envoyé en en-tête pour les actions d'administration (création/édition/suppression).
-    /// </remarks>
     public class CouponApiService : ICouponApiService
     {
         private readonly HttpClient _httpClient;

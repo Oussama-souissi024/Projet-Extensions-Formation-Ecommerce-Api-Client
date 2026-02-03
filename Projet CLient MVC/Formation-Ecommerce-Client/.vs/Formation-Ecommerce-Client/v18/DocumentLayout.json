@@ -1,22 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\",
+  "WorkspaceRootPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\extension\\Projet CLient MVC\\Formation-Ecommerce-Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|c:\\users\\oussa\\onedrive\\desktop\\formation\\projet full stack mvc\\projet extensions\\projet client mvc\\formation-ecommerce-client\\formation-ecommerce-client.test\\unit\\productapiservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|solutionrelative:formation-ecommerce-client.test\\unit\\productapiservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43354DDC-B096-485E-9C3E-453F99DDBD77}|..\\Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|c:\\users\\oussa\\onedrive\\desktop\\extension\\projet client mvc\\formation-ecommerce-client.test\\common\\apiresponsebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|c:\\users\\oussa\\onedrive\\desktop\\formation\\projet full stack mvc\\projet extensions\\projet client mvc\\formation-ecommerce-client\\formation-ecommerce-client.test\\fakes\\fakehttpclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|solutionrelative:formation-ecommerce-client.test\\fakes\\fakehttpclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|c:\\users\\oussa\\onedrive\\desktop\\formation\\projet full stack mvc\\projet extensions\\projet client mvc\\formation-ecommerce-client\\formation-ecommerce-client.test\\common\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|solutionrelative:formation-ecommerce-client.test\\common\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|c:\\users\\oussa\\onedrive\\desktop\\formation\\projet full stack mvc\\projet extensions\\projet client mvc\\formation-ecommerce-client\\formation-ecommerce-client.test\\common\\apiresponsebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E37A8E80-98D5-496D-98C5-74848FE8236A}|Formation-Ecommerce-Client.Test\\Formation-Ecommerce-Client.Test.csproj|solutionrelative:formation-ecommerce-client.test\\common\\apiresponsebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,54 +44,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductApiServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Unit\\ProductApiServiceTests.cs",
-              "RelativeDocumentMoniker": "Formation-Ecommerce-Client.Test\\Unit\\ProductApiServiceTests.cs",
-              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Unit\\ProductApiServiceTests.cs",
-              "RelativeToolTip": "Formation-Ecommerce-Client.Test\\Unit\\ProductApiServiceTests.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T14:13:24.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FakeHttpClientFactory.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Fakes\\FakeHttpClientFactory.cs",
-              "RelativeDocumentMoniker": "Formation-Ecommerce-Client.Test\\Fakes\\FakeHttpClientFactory.cs",
-              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Fakes\\FakeHttpClientFactory.cs",
-              "RelativeToolTip": "Formation-Ecommerce-Client.Test\\Fakes\\FakeHttpClientFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T14:13:20.802Z",
-              "EditorCaption": ""
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFUHAAAAAAAAAAAkwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-03T16:45:18.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ValidationHelper.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Common\\ValidationHelper.cs",
-              "RelativeDocumentMoniker": "Formation-Ecommerce-Client.Test\\Common\\ValidationHelper.cs",
-              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Common\\ValidationHelper.cs",
-              "RelativeToolTip": "Formation-Ecommerce-Client.Test\\Common\\ValidationHelper.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T14:13:14.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ApiResponseBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Common\\ApiResponseBuilder.cs",
-              "RelativeDocumentMoniker": "Formation-Ecommerce-Client.Test\\Common\\ApiResponseBuilder.cs",
-              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet CLient MVC\\Formation-Ecommerce-Client\\Formation-Ecommerce-Client.Test\\Common\\ApiResponseBuilder.cs",
-              "RelativeToolTip": "Formation-Ecommerce-Client.Test\\Common\\ApiResponseBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\extension\\Projet CLient MVC\\Formation-Ecommerce-Client.Test\\Common\\ApiResponseBuilder.cs",
+              "RelativeDocumentMoniker": "..\\Formation-Ecommerce-Client.Test\\Common\\ApiResponseBuilder.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\extension\\Projet CLient MVC\\Formation-Ecommerce-Client.Test\\Common\\ApiResponseBuilder.cs",
+              "RelativeToolTip": "..\\Formation-Ecommerce-Client.Test\\Common\\ApiResponseBuilder.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T14:13:09.489Z",
+              "WhenOpened": "2026-02-03T16:44:46.333Z",
               "EditorCaption": ""
             }
           ]

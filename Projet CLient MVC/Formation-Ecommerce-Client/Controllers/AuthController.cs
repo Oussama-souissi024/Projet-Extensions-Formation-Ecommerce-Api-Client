@@ -6,15 +6,6 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace Formation_Ecommerce_Client.Controllers
 {
-    /// <summary>
-    /// Contrôleur MVC côté Client : gère les pages d'authentification (login/inscription) et orchestre les appels à l'API.
-    /// </summary>
-    /// <remarks>
-    /// Différences pédagogiques vs le projet monolithique MVC :
-    /// - Ici, le contrôleur ne déclenche pas directement le pipeline ASP.NET Identity (cookies) ; il délègue à <see cref="IAuthApiService"/>.
-    /// - Les identifiants sont envoyés à l'API, qui renvoie un JWT ; le stockage du token est géré par le service HTTP (Session).
-    /// - Le contrôleur reste centré sur l'UI (ModelState/TempData/Redirections) et non sur la sécurité serveur.
-    /// </remarks>
     public class AuthController : Controller
     {
         private readonly IAuthApiService _authService;

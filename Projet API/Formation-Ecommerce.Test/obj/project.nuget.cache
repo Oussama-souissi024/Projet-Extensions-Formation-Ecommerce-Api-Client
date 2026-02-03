@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hp8/UUAVeJc=",
+  "dgSpecHash": "r1sTu4AJLDE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Projet extensions\\Projet API\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj",
+  "projectFilePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet extensions\\Projet API\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oussa\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\oussa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

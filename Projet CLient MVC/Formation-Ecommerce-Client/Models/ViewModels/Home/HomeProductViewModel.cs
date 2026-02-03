@@ -1,14 +1,5 @@
 namespace Formation_Ecommerce_Client.Models.ViewModels.Home
 {
-    /// <summary>
-    /// Modèle de présentation côté Client MVC : produit affiché sur l'accueil et la page de détail (IHM).
-    /// </summary>
-    /// <remarks>
-    /// Points pédagogiques :
-    /// - Les informations proviennent de l'API (liste produits, détail produit) puis sont adaptées à la vue.
-    /// - La propriété <see cref="Count"/> sert à la saisie de quantité (ajout au panier), côté UI.
-    /// - La sécurité et la persistance associées au panier/commandes restent côté API.
-    /// </remarks>
     public class HomeProductViewModel
     {
         public Guid Id { get; set; }

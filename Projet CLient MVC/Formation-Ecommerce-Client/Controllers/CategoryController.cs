@@ -5,15 +5,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Formation_Ecommerce_Client.Controllers
 {
-    /// <summary>
-    /// Contrôleur MVC côté Client : gère les écrans CRUD des catégories en consommant l'API via un service HTTP.
-    /// </summary>
-    /// <remarks>
-    /// Points pédagogiques :
-    /// - Dans l'architecture client/serveur, la persistance et les règles métier restent côté API ; le client ne fait que piloter l'IHM.
-    /// - Le contrôleur appelle <see cref="ICategoryApiService"/> (HttpClient) au lieu d'appeler directement la couche Application.
-    /// - La sécurité effective est côté API ; côté UI on applique <see cref="AuthorizeApiAttribute"/> pour exiger un JWT en session.
-    /// </remarks>
     [AuthorizeApi] 
     public class CategoryController : Controller
     {
